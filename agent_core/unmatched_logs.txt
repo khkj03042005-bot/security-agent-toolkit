@@ -1,0 +1,4 @@
+2026-09-29 09:30:05 INFO session closed by 10.1.2.34
+2026-09-29 12:01:10 INFO session closed by 10.1.2.11
+2026-09-29 18:00:12 INFO session closed by 10.1.2.15
+2026-09-29 23:40:07 WARN failed login for invalid user guest from 185.220.101.34
