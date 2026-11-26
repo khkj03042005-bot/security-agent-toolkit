@@ -1,0 +1,14 @@
+[
+  {
+    "user": "kim01",
+    "result": "FAIL"
+  },
+  {
+    "user": "lee02",
+    "result": "OK"
+  },
+  {
+    "user": "kim01",
+    "result": "FAIL"
+  }
+]

@@ -1,0 +1,4 @@
+time,user,ip,action,result
+09:01,kim01,10.0.3.21,LOGIN,FAIL
+09:03,lee02,10.0.7.5,LOGIN,OK
+09:05,kim01,10.0.3.21,LOGIN,FAIL
